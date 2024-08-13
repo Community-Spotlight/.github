@@ -15,7 +15,7 @@ Please Fill in [this form](https://forms.gle/9d5GHEukZva5zeZj8), soon a **Team M
 
 ### Important Notes Before Submitting (Also Listed in Form)
 
-Promotion Files **MUST** be under **10MB and is either a Image or Video**
+Promotion Files **MUST** be under **10MB and is either an Image or Video**
 
 **Rules for Images:**
 ```
@@ -30,5 +30,5 @@ Acceptable Formats: MP4
 ```
 
 ## My Promotion Stopped Showing Up, What Happened?
-Once your Promotion is added to our Repository, it will **Automatically be Deleted in 1 Week.** This is to help manage Storage...
+Once your Promotion is added to our Repository, it will **Automatically be Deleted in 2 Weeks.** This is to help manage Storage...
 You are more than welcome to re-submit the [form](https://forms.gle/9d5GHEukZva5zeZj8) to add your Promotion
