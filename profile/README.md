@@ -7,7 +7,7 @@ Creators may freely use this to promote their Games/Videos/Songs/etc. They may a
 **[Our Discord](https://discord.gg/JqSuhvWkFM)**
 
 ## Licence
-This Project, and all Promotions within it, are Licenced under **MIT**
+All Promotions within this project are licenced under **MIT**, for tools; scripts and other things please check the repository for its corrosponding license, if it is missing one assume **MIT**.
 
 # Q&A
 ## How can I submit My Promotions?
