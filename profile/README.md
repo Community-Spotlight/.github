@@ -9,7 +9,7 @@ All Promotions within this project are licenced under **MIT**. For tools, script
 
 # Q&A
 ## How can I submit My Promotions?
-Please fill out [this form](https://forms.gle/9d5GHEukZva5zeZj8), soon a **team member** will look over and possibly add your promotion.
+Please fill out [this form](https://community-spotlight.github.io/uploader-site/), soon a **team member** will look over and possibly add your promotion.
 
 ### Important Notes Before Submitting (Also Listed in Form)
 
@@ -30,4 +30,4 @@ Acceptable Formats: MP4
 ## My Promotion Stopped Showing Up, What Happened?
 Once your promotion is added to our repository, it will **automatically be deleted in 2 weeks.**; This is to help manage storage...
 
-You are more than welcome to re-submit the [form](https://forms.gle/9d5GHEukZva5zeZj8) to add your promotion back.
+You are more than welcome to re-submit the [form](https://community-spotlight.github.io/uploader-site/) to add your promotion back.
